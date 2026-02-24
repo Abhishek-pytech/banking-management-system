@@ -41,8 +41,8 @@ It is designed for beginners to understand how real-world banking logic works in
 
 mini-banking-system/
 │
-├── main.py        # Main Python file
-     <br> 
+├── main.py     <br>     # Main Python file
+    
 ├── mini_interface.py  
    <br>  
 ├── README.md         # Project documentation  
