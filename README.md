@@ -39,12 +39,12 @@ It is designed for beginners to understand how real-world banking logic works in
 
 ## 📂 Project Structure
 
-mini-banking-system/
+mini-banking-system/  <br> 
 │
-├── main.py     <br>     # Main Python file
+├── main.py           # Main Python file  <br> 
     
 ├── mini_interface.py  
-   <br>  
+    
 ├── README.md         # Project documentation  
 
 ---
