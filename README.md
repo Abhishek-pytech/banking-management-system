@@ -40,7 +40,7 @@ It is designed for beginners to understand how real-world banking logic works in
 ## 📂 Project Structure
 
 mini-banking-system/  <br> 
-│
+
 ├── main.py           # Main Python file  <br> 
     
 ├── mini_interface.py  
